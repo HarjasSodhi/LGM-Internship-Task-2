@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LGM-Internship-Task-2/static/css/main.e1615f46.chunk.css",
+    "main.js": "/LGM-Internship-Task-2/static/js/main.180c3e69.chunk.js",
+    "main.js.map": "/LGM-Internship-Task-2/static/js/main.180c3e69.chunk.js.map",
+    "runtime-main.js": "/LGM-Internship-Task-2/static/js/runtime-main.ca00accf.js",
+    "runtime-main.js.map": "/LGM-Internship-Task-2/static/js/runtime-main.ca00accf.js.map",
+    "static/js/2.416d67ce.chunk.js": "/LGM-Internship-Task-2/static/js/2.416d67ce.chunk.js",
+    "static/js/2.416d67ce.chunk.js.map": "/LGM-Internship-Task-2/static/js/2.416d67ce.chunk.js.map",
+    "index.html": "/LGM-Internship-Task-2/index.html",
+    "static/css/main.e1615f46.chunk.css.map": "/LGM-Internship-Task-2/static/css/main.e1615f46.chunk.css.map",
+    "static/js/2.416d67ce.chunk.js.LICENSE.txt": "/LGM-Internship-Task-2/static/js/2.416d67ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca00accf.js",
+    "static/js/2.416d67ce.chunk.js",
+    "static/css/main.e1615f46.chunk.css",
+    "static/js/main.180c3e69.chunk.js"
+  ]
+}
